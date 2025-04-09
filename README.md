@@ -1,4 +1,4 @@
-# 💫 About Me:
+<!-- # 💫 About Me:
 🔭 I’m currently working on<br>Una plataforma web interactiva con tests de personalidad estilo BuzzFeed, un sistema de login seguro con cifrado, funcionalidades sociales como solicitudes de amistad, y una app de lavados personalizados con almacenamiento en JSON y sincronización en el perfil del usuario.<br><br>🤝 I’m looking to collaborate on<br>Proyectos relacionados con desarrollo web full-stack, diseño de interfaces creativas y accesibles, y sistemas distribuidos con comunicación cliente-servidor en C o JavaScript.<br><br>🙌 I’m looking for help with<br>Optimización de modelos de machine learning (SVM, regresión logística), mejora de rendimiento en estructuras tipo SOA/AOS y despliegue seguro de aplicaciones web.<br><br>🌱 I’m currently learning<br>Compiladores y análisis sintáctico con Yacc, visión por computador, técnicas de clustering, y nuevas formas de interacción como control por movimiento del dispositivo móvil.<br><br>💬 Ask me about<br>Cómo guardar datos cifrados en bases de datos SQL, cómo hacer perfiles interactivos con localStorage, cómo crear efectos visuales atractivos con HTML/CSS/JS, o cómo estructurar trabajos académicos de usabilidad y ética en IA.<br><br>⚡ Fun fact<br>Una de mis pruebas se llama “¿Qué dedo del pie eres?” y me ha dado más insights sobre UX que muchos artículos académicos 😄
 
 
@@ -18,4 +18,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=albatellouc3m&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Proudly created with GPRM ( https://gprm.itsvg.in ) -->
